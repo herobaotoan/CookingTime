@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Portal
+  - Pan
+  - Ingredient
+  - Board
+  - Board1
+  - Pan1
+  - Meat(new)
+  - Meat
+  - Wall
+  - Pan2
+  - Order
+  - Station
+  - Trash
+  - VIPOrder
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Background
+  - Water
+  - UI
+  - Appliance
+  - Ingredient
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2221256913
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Appliance
+    uniqueID: 142410141
+    locked: 0
+  - name: Ingredient
+    uniqueID: 881761955
+    locked: 0
+  - name: Tool
+    uniqueID: 597141293
+    locked: 0
